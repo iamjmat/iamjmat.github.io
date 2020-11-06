@@ -1,16 +1,14 @@
-### Hi there 👋
+# Jeen Mathew 👨🏻‍💻 WLAN Engineer
 
-<!--
-**iamjmat/iamjmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-wunderjeenie-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wunderjeenie)](https://twitter.com/wunderjeenie) 
+[![Linkedin Badge](https://img.shields.io/badge/-JeenMathew-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamjmat/)](https://www.linkedin.com/in/iamjmat/) 
+[![Gmail Badge](https://img.shields.io/badge/-jeenmathew26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeenmathew26@gmail.com)](mailto:jeenmathew26@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img align="left" width="170" height="170" alt="GIF" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/source.gif" />
+
+
+![Jeen's github stats](https://github-readme-stats.vercel.app/api?username=iamjmat&show_icons=true&hide_border=true) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamjmat&layout=compact&hide_border=true)

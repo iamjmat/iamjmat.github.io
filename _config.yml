@@ -5,21 +5,23 @@ description: "A dark blog theme for Jekyll."
 baseurl: ""
 url: "https://iamjmat.github.io/"
 github_repository: https://github.com/iamjmat/iamjmat.github.io/
-
+title_description: ""
+title_image: "https://avatars2.githubusercontent.com/u/39476662?s=400&u=84a891c1df18de2b648f54196b72f24ab44909c4&v=4"
 
 # Social usernames/URLs
 twitter_username: wunderjeeenie
 github_username:  iamjmat
 instagram_username: 
 reddit_username: 
-linkedin_link: 
+linkedin_link: https://www.linkedin.com/in/iamjmat/
 google_plus_link: 
 stackoverflow_link: 
 xing_link:
 facebook_link:
+hackerrank_link:  https://www.hackerrank.com/iamjmat
 
 # Footer
-footer_left: ""
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/wunderjeeenie\">Jacob Tomlinson</a>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/wunderjeeenie/\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings

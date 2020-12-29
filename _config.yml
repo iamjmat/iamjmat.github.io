@@ -1,18 +1,17 @@
 # Site settings
 title: "Jeen Mathew"
 email: jeenmathew26@gmail.com
-description: "A dark blog theme for Jekyll."
+description: "Website"
 baseurl: ""
 url: "https://iamjmat.github.io/"
 github_repository: https://github.com/iamjmat/iamjmat.github.io/
 
 
 # Social usernames/URLs
-twitter_username: wunderjeeenie
+twitter_username: wunderjeenie
 github_username:  iamjmat
-instagram_username: 
-reddit_username: 
-linkedin_link: 
+hackerrank_username: https://www.hackerrank.com/iamjmat
+linkedin_link: https://www.linkedin.com/in/iamjmat/
 google_plus_link: 
 stackoverflow_link: 
 xing_link:
@@ -20,7 +19,7 @@ facebook_link:
 
 # Footer
 footer_left: ""
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_right: ""
 
 # Build settings
 markdown: kramdown

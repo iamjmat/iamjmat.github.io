@@ -22,7 +22,7 @@ hackerrank_link:  https://www.hackerrank.com/iamjmat
 
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/iamjmat/\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/iamjmat/\">Github</a> &nbsp;<i class=\"fab fa-github-alt\"></i>"
 
 # Build settings
 markdown: kramdown
